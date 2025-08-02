@@ -307,4 +307,3 @@ if st.button("Generate My Study Plan"):
 st.markdown("---")
 st.markdown(f"**🎯 Your Selected Focus:** {strand}")
 st.markdown("**📍 Common Core Standards:** This lesson supports high school algebra and mathematical modeling practices.")
-```
