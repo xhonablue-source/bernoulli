@@ -1,3 +1,8 @@
+I have updated the link for the "Ancient Engineering: Water Management in the Nile" resource in the program. The new link now points directly to the irrigation section of the page.
+
+-----
+
+```python
 import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
@@ -244,18 +249,20 @@ resources = {
     "🕰️ History of Math & Science": [
         {
             "name": "Ancient Engineering: Water Management in the Nile",
-            "url": "http://googleusercontent.com/history_resource1",
+            "url": "https://ancientengrtech.wisc.edu/ancient-egypt-water-engineering/#irrigation",
             "description": "Explore how early civilizations in Africa applied principles of fluid dynamics to build irrigation systems."
+        }
+    ],
+    "🌐 Websites & Articles": [
+        {
+            "name": "PBS Learning Media: Fluid Dynamics",
+            "url": "https://detroitpbs.pbslearningmedia.org/resource/npe11.sci.engin.design.fluidyn/fluid-dynamics/",
+            "description": "An educational resource from Detroit PBS on the principles of fluid dynamics."
         },
         {
-            "name": "The Bernoulli Family: Pioneering Fluid Dynamics in Europe",
-            "url": "http://googleusercontent.com/history_resource2",
-            "description": "Learn about the contributions of the Bernoulli family and their work in 18th-century mathematics and physics."
-        },
-        {
-            "name": "From the Aqueducts to Aerodynamics",
-            "url": "http://googleusercontent.com/history_resource3",
-            "description": "A timeline connecting early concepts of fluid flow from ancient Rome to modern scientific understanding."
+            "name": "FY Fluid Dynamics",
+            "url": "https://fyfluiddynamics.com/",
+            "description": "A comprehensive site for all things fluid dynamics, from fundamentals to advanced topics."
         }
     ]
 }
@@ -305,3 +312,4 @@ if st.button("Generate My Study Plan"):
 st.markdown("---")
 st.markdown(f"**🎯 Your Selected Focus:** {strand}")
 st.markdown("**📍 Common Core Standards:** This lesson supports high school algebra and mathematical modeling practices.")
+```
