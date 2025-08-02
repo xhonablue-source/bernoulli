@@ -1,0 +1,34 @@
+```
+CORE FUNCTIONALITY
+
+* User Interface (UI): The app must be a Streamlit application.
+* Topic: The central theme is Bernoulli's Principle and its connection to Common Core Math.
+* Target Audience: The program is for a general user, not tied to any specific school or organization.
+
+---
+
+CONTENT AND STRUCTURE
+
+* Page Setup: Set up the page with a relevant title and icon.
+* Title and Intro: Use a neutral title and an introduction that explains Bernoulli's Principle simply.
+* Learning Objectives: Clearly state the learning goals for the user.
+* Common Core Alignment: Explicitly state the connection to Common Core standards (e.g., HSA-CED.A.1, HSF-IF.B.4).
+* User Input: Allow users to input their name and choose an avatar.
+* Interactive Visualization: Include an interactive plot that shows the inverse relationship between fluid speed and pressure.
+* Simplified Math Model: Present a simplified mathematical expression to represent the relationship shown in the visualization.
+* Quizzes: Implement a section with quick quizzes to check user understanding.
+* Reflection: A text area for users to reflect on the concepts and provide their own examples.
+* Summary: A concluding section that summarizes key takeaways.
+* External Resources: Provide a curated list of categorized learning resources (e.g., videos, interactive tools).
+* Study Plan Generator: An interactive section that generates a personalized study plan based on user input.
+
+---
+
+TECHNICAL DETAILS
+
+* Language: Python
+* Libraries: streamlit, matplotlib, numpy.
+* Code: The entire program should be a single, self-contained Python script.
+* Branding: All specific branding (e.g., "Panther Vision," "Englewood STEM HS") must be removed.
+* Notation: Use LaTeX for mathematical and scientific notations where appropriate.
+```
