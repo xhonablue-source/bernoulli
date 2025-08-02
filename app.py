@@ -1,8 +1,3 @@
-I have updated the link for the "Ancient Engineering: Water Management in the Nile" resource in the program. The new link now points directly to the irrigation section of the page.
-
------
-
-```python
 import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
