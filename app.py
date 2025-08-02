@@ -5,6 +5,12 @@ import numpy as np
 # --- Page Setup ---
 st.set_page_config(page_title="Fluid Dynamics: The Bernoulli Principle", page_icon="💧")
 
+# --- Developer Credit ---
+st.markdown("### www.cognitivecloud.ai")
+st.markdown("**Developed by Xavier Honablue M.Ed**")
+
+st.markdown("---")
+
 # --- Title and Intro ---
 st.title("💧 The Bernoulli Principle Explorer")
 st.markdown("""
