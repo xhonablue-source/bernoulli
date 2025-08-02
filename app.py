@@ -240,6 +240,23 @@ resources = {
             "url": "https://tutorial.math.lamar.edu/Classes/Alg/Equations.aspx",
             "description": "Comprehensive notes on solving algebraic equations."
         }
+    ],
+    "🕰️ History of Math & Science": [
+        {
+            "name": "Ancient Engineering: Water Management in the Nile",
+            "url": "http://googleusercontent.com/history_resource1",
+            "description": "Explore how early civilizations in Africa applied principles of fluid dynamics to build irrigation systems."
+        },
+        {
+            "name": "The Bernoulli Family: Pioneering Fluid Dynamics in Europe",
+            "url": "http://googleusercontent.com/history_resource2",
+            "description": "Learn about the contributions of the Bernoulli family and their work in 18th-century mathematics and physics."
+        },
+        {
+            "name": "From the Aqueducts to Aerodynamics",
+            "url": "http://googleusercontent.com/history_resource3",
+            "description": "A timeline connecting early concepts of fluid flow from ancient Rome to modern scientific understanding."
+        }
     ]
 }
 
