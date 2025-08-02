@@ -205,23 +205,6 @@ st.header("🌐 Additional Learning Resources")
 
 # Categorized external resources
 resources = {
-    "📺 Video Tutorials": [
-        {
-            "name": "Bernoulli's Principle Explained - Science in a Nutshell",
-            "url": "https://www.youtube.com/watch?v=yYyI36zX-eU",
-            "description": "An easy-to-understand explanation of the principle with simple demonstrations."
-        },
-        {
-            "name": "Bernoulli Equation in Detail - Khan Academy",
-            "url": "https://www.khanacademy.org/science/physics/fluids/fluid-dynamics/v/bernoullis-equation",
-            "description": "A deep dive into the full Bernoulli equation and its components."
-        },
-        {
-            "name": "How Planes Fly - The Bernoulli Principle",
-            "url": "https://www.youtube.com/watch?v=kvGsIo1TmsM",
-            "description": "A video that specifically visualizes the pressure difference over an airplane wing."
-        }
-    ],
     "💻 Interactive Tools": [
         {
             "name": "Desmos Graphing Calculator",
@@ -285,14 +268,12 @@ if st.button("Generate My Study Plan"):
     if "Beginner" in current_level:
         st.markdown("""
         **Week 1-2: Foundation Building**
-        - Watch the "Bernoulli's Principle Explained" video.
         - Use the interactive visualization above to get a feel for the relationship.
         - Complete IXL lessons on solving one-step equations.
         """)
     elif "Intermediate" in current_level:
         st.markdown("""
         **Week 1: Deeper Understanding**
-        - Watch the Khan Academy video on the full Bernoulli equation.
         - Use Desmos to graph a more complex version of the speed-pressure relationship.
         - Focus on IXL lessons related to graphing and interpreting functions.
         """)
